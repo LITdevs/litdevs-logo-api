@@ -15,6 +15,7 @@
     "url": "https://github.com/LITDevs/litdevs-logo-api/issues"
   },
   "dependencies": {
-    "convert-svg-to-jpeg": "^0.6.4"
+    "convert-svg-to-jpeg": "^0.6.4",
+    "node-fetch": "^2.6.7"
   }
 }
