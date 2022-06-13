@@ -1,4 +1,5 @@
 let client
+const fetch = require("node-fetch")
 const { convert } = require('convert-svg-to-jpeg');
 function initAPIs(utils) {
     client = utils.client
