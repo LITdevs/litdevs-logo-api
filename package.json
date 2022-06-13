@@ -1,0 +1,20 @@
+{
+  "name": "litdevs-logo-api",
+  "version": "1.0.0",
+  "description": "Painfull module to change server icon according to https://logo.litdevs.org/api/vukky/bg",
+  "main": "src/index.js",
+  "original_pain_version": "1.0.0",
+  "min_pain_version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LITDevs/litdevs-logo-api.git"
+  },
+  "author": "Skelly",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/LITDevs/litdevs-logo-api/issues"
+  },
+  "dependencies": {
+    "convert-svg-to-jpeg": "^0.6.4"
+  }
+}
